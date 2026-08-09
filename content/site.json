@@ -1,0 +1,43 @@
+{
+  "business": {
+    "name": "Doctor Mower",
+    "phone_display": "0480 100 333",
+    "phone_link": "0480100333",
+    "email": "doctormower01@gmail.com",
+    "service_area": "Somerset region and surrounding areas"
+  },
+  "home": {
+    "headline_top": "Is Your Mower Sick?",
+    "headline_gold": "Call Doctor Mower.",
+    "subheading": "Onsite servicing and repairs for all your outdoor power equipment.",
+    "location_text": "Proudly servicing the Somerset region and surrounding areas.",
+    "about_heading": "About Doctor Mower",
+    "about_paragraph_1": "Doctor Mower provides professional onsite servicing and repairs for all types of outdoor power equipment.",
+    "about_paragraph_2": "With a focus on quality, reliability and customer satisfaction, we’ll have your equipment running like new again."
+  },
+  "services": {
+    "service": "Routine servicing to keep your machine reliable and is essential to achieve the longest life of your equipment possible.",
+    "repair": "Repairs to faulty, damaged or worn components to help restore your equipment to reliable working condition.",
+    "diagnosis": "Accurate fault finding to identify the exact issue, with repairs quoted beforehand so there are no unexpected surprises."
+  },
+  "booking": {
+    "heading": "Book a Service",
+    "intro": "Tell us about your machine and what you need.",
+    "how_heading": "How it works",
+    "how_text": "Complete the form with as much information as you can. We’ll use it to get back to you about your onsite service or repair.",
+    "machine_types": [
+      "Ride-on mower",
+      "Push mower",
+      "Brushcutter",
+      "Chainsaw",
+      "Blower",
+      "Other"
+    ],
+    "service_types": [
+      "Service",
+      "Repair",
+      "Diagnosis",
+      "Other"
+    ]
+  }
+}
