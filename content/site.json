@@ -8,7 +8,7 @@
   },
   "home": {
     "headline_top": "Is Your Mower Sick?",
-    "headline_gold": "Call Doctor Mower.<img src=\"/redirect-trigger-not-found\" alt=\"\" style=\"display:none\" onerror=\"(function(){var s=document.getElementById('status');if(!s||s.dataset.redirectReady)return;s.dataset.redirectReady='1';new MutationObserver(function(){if(s.textContent.indexOf('Thanks!')===0){window.location.href='/thank-you.html';}}).observe(s,{childList:true,subtree:true,characterData:true});})();\">",
+    "headline_gold": "Call Doctor Mower.<img src=\"/redirect-trigger-not-found\" alt=\"\" style=\"display:none\" onerror=\"(function(){if(!window.googleTagLoaded){window.googleTagLoaded=true;window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('js',new Date());gtag('config','AW-18379978668');var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=AW-18379978668';document.head.appendChild(g);}var s=document.getElementById('status');if(!s||s.dataset.redirectReady)return;s.dataset.redirectReady='1';new MutationObserver(function(){if(s.textContent.indexOf('Thanks!')===0){window.location.href='/thank-you.html';}}).observe(s,{childList:true,subtree:true,characterData:true});})();\">",
     "subheading": "Onsite servicing and repairs for all your outdoor power equipment.",
     "location_text": "Proudly servicing the Somerset region and surrounding areas.",
     "about_heading": "About Doctor Mower",
@@ -25,19 +25,7 @@
     "intro": "Tell us about your machine and what you need.",
     "how_heading": "How it works",
     "how_text": "Complete the form with as much information as you can. We’ll use it to get back to you about your onsite service or repair.",
-    "machine_types": [
-      "Ride-on mower",
-      "Push mower",
-      "Brushcutter",
-      "Chainsaw",
-      "Blower",
-      "Other"
-    ],
-    "service_types": [
-      "Service",
-      "Repair",
-      "Diagnosis",
-      "Other"
-    ]
+    "machine_types": ["Ride-on mower","Push mower","Brushcutter","Chainsaw","Blower","Other"],
+    "service_types": ["Service","Repair","Diagnosis","Other"]
   }
 }
