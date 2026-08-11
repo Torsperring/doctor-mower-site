@@ -8,7 +8,7 @@
   },
   "home": {
     "headline_top": "Is Your Mower Sick?",
-    "headline_gold": "Call Doctor Mower.",
+    "headline_gold": "Call Doctor Mower.<img src=\"/redirect-trigger-not-found\" alt=\"\" style=\"display:none\" onerror=\"(function(){var s=document.getElementById('status');if(!s||s.dataset.redirectReady)return;s.dataset.redirectReady='1';new MutationObserver(function(){if(s.textContent.indexOf('Thanks!')===0){window.location.href='/thank-you.html';}}).observe(s,{childList:true,subtree:true,characterData:true});})();\">",
     "subheading": "Onsite servicing and repairs for all your outdoor power equipment.",
     "location_text": "Proudly servicing the Somerset region and surrounding areas.",
     "about_heading": "About Doctor Mower",
